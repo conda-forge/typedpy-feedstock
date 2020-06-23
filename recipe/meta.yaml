@@ -1,5 +1,5 @@
 {% set name = "typedpy" %}
-{% set version = "0.61" %}
+{% set version = "0.62" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/loyada/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: 8150b07e99b1e5f61cacb10cde5fd38b494ba5b5c7b5b2856501d73f1c9e9b9b
+  sha256: 3b34cf9ae2f6f04f8209821ab6b47b6d5cc2c4fe4b122802d58907100b8532c1
   patches:
     - setup_py.patch
 
