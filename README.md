@@ -5,7 +5,7 @@ Home: https://pypi.org/project/typedpy/
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Type-safe Python
 
