@@ -5,11 +5,9 @@ Home: https://pypi.org/project/typedpy/
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/typedpy-feedstock/blob/master/LICENSE.txt)
 
 Summary: Type-safe Python
-
-
 
 Current build status
 ====================
